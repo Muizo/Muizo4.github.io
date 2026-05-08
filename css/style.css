@@ -161,7 +161,7 @@ li a.started:hover {
 
 .about-box ul {
         list-style-position: inside;
-        list-style-image: ('../Img/listimage.png');
+        list-style-image: url('../Img/listimage.png');
         font-size: 1.2rem;;
 }
 
