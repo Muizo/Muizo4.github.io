@@ -104,7 +104,7 @@ li a.started:hover {
 *************************************/
 #intro-background {
         margin-top: 6%;
-        background-image: url('/img/homeBg.jpg');
+        background-image: url('../img/homeBg.jpg');
         background-position: top center;
         background-repeat: no-repeat;
         background-size: cover;
