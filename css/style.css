@@ -104,7 +104,7 @@ li a.started:hover {
 *************************************/
 #intro-background {
         margin-top: 6%;
-        background-image: url('../img/homeBg.jpg');
+        background-image: url('../Img/homeBg.jpg');
         background-position: top center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -161,7 +161,7 @@ li a.started:hover {
 
 .about-box ul {
         list-style-position: inside;
-        list-style-image: url('../Img/listimage.png');
+        list-style-image: ('../Img/listimage.png');
         font-size: 1.2rem;;
 }
 
